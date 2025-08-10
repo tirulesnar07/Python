@@ -1,9 +1,5 @@
-print('hello World')
 
-s='tiru'
-age=20
-
-print(f"hellwo this is {s} and age is {age}")
+<<<<<<< HEAD
 print('hello World')
 
 a="Tiru"
@@ -12,3 +8,8 @@ country="India"
 print(a,age,country)
 
 # changing to tesing 
+=======
+
+
+# Hey man how are 
+>>>>>>> 69437e9 (modified for testing)

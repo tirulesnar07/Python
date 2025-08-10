@@ -18,3 +18,4 @@ pert=98.9
 print(type(s))
 print(type(age))
 print(type(pert))
+
