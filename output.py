@@ -11,6 +11,11 @@ print(a,age,country)
 amount=12.8
 print("Amount: ${:.2f}".format(amount))
 
+s='tiru'
+age=20
+
+print(f"hellwo this is {s} and age is {age}")
+
 #  Using sep and end parameter
 print("12","08","2002",sep="-")
 
